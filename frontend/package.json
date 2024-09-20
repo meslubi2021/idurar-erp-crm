@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
-    "@ant-design/pro-layout": "^7.17.12",
+    "@ant-design/pro-layout": "^7.20.2",
     "@rollup/plugin-dynamic-import-vars": "^2.1.0",
     "@vitejs/plugin-react": "^4.0.4",
     "antd": "^5.11.0",
@@ -24,7 +24,7 @@
     "redux-thunk": "^2.4.2",
     "reselect": "^4.1.8",
     "shortid": "^2.2.16",
-    "vite": "^4.5.3"
+    "vite": "^4.5.5"
   },
   "scripts": {
     "dev": "vite",
